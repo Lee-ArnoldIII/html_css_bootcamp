@@ -1,0 +1,19 @@
+.topside {
+    position: fixed;
+}
+
+.background {
+    background: D1D0CE;
+}
+
+nav ul {
+    text-align: right;
+    position: fixed;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 45px;
+    margin-bottom:15px;
+    margin-top: 0;
+}
