@@ -3,7 +3,12 @@ header > * {
 }
 
 .bigger {
-    font-size: 18px;
+    font-size: 30px;
+    width: 50%;
+}
+
+.smallbox {
+    width: 80%;
 }
 
 .right {
@@ -33,5 +38,11 @@ h2 {
     padding-left: 300px;
     padding-right: 200px;
     padding-bottom: 10px;
+    height: auto;
+}
+
+.center2 {
+    width: 20%;
+    margin-left: 40%; 
     height: auto;
 }
