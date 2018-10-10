@@ -46,3 +46,18 @@ h2 {
     margin-left: 40%; 
     height: auto;
 }
+
+#date {
+text-align: center;
+color: rgb(158, 158, 158, 50);
+font-size: 12px;
+}
+
+#twitter-like {
+background-color: rgb(100, 170, 205, 200);
+color: white;
+width: 12%;
+margin-left: 44%;
+font-size: 14px;
+padding-left: 20px;
+}
